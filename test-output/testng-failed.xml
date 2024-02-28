@@ -8,16 +8,6 @@
           <include name="invokechrome"/>
         </methods>
       </class> <!-- TestNG.ListenerTestClass -->
-      <class name="TestNG.InvokeEdge">
-        <methods>
-          <include name="invokeedge"/>
-        </methods>
-      </class> <!-- TestNG.InvokeEdge -->
-      <class name="TestNG.InvokeChromeBrowser">
-        <methods>
-          <include name="invokechrome"/>
-        </methods>
-      </class> <!-- TestNG.InvokeChromeBrowser -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -18,7 +18,7 @@ public class InvokeEdge {
 	
 				WebDriver driver = new EdgeDriver();
 				
-				driver.get("https://www.sele");
+				driver.get("https://www.selenium.dev/");
 				
 	}
 
